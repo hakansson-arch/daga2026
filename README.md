@@ -23,5 +23,4 @@ Für einen leichten, zweimotorigen Mehrzweck-Hubschrauber wurde mit Hilfe eines 
 ![Spitzen- und Dauerleistung des Maschinendesigns](./images/power_curve.png)
 ![Äquivalente abgestrahlte Leistung der Maschine als Funktion der Drehzahl der Maschine und der Frequenz](./images/waterfall_24s20p_small.png)
 ![Vergleich zweier Methoden](./images/erp_vs_truePower.png)
-![Schalldruck innerhalb einer Kugel um die Maschine für die erste Anregungsfrequenze von 2.000 Hz](./images/acPres_2000Hz.pdf)
 ![Richtcharakteristik des Schalldruckpegels in einem Meter Abstand für drei verschiedene Frequenzen](./images/directivity.png)
