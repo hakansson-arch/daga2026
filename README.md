@@ -18,4 +18,10 @@ Für einen leichten, zweimotorigen Mehrzweck-Hubschrauber wurde mit Hilfe eines 
 * Hakansson, S. (2025). "Noise estimation of an electric machine for a parallel hybrid helicopter propulsion system". Proceedings of ERF 2025. https://elib.dlr.de/217538/
 
 ## Diagramme
-![A mission profile.](./images/missionprofile.png)
+![Bereinigtes Missionsprofil eines EC145 auf Basis von ADS-B-Daten](./images/missionprofile.png)
+![Benötigte Wellenleistung in allen FLugphasen](./images/requiredPower.png)
+![Spitzen- und Dauerleistung des Maschinendesigns](./images/power_curve.png)
+![Äquivalente abgestrahlte Leistung der Maschine als Funktion der Drehzahl der Maschine und der Frequenz](./images/waterfall_24s20p_small.png)
+![Vergleich zweier Methoden](./images/erp_vs_truePower.png)
+![Schalldruck innerhalb einer Kugel um die Maschine für die erste Anregungsfrequenze von 2.000 Hz](./images/acPres_2000Hz.pdf)
+![Richtcharakteristik des Schalldruckpegels in einem Meter Abstand für drei verschiedene Frequenzen](./images/directivity.png)
