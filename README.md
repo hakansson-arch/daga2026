@@ -18,4 +18,4 @@ Für einen leichten, zweimotorigen Mehrzweck-Hubschrauber wurde mit Hilfe eines 
 * Hakansson, S. (2025). "Noise estimation of an electric machine for a parallel hybrid helicopter propulsion system". Proceedings of ERF 2025. https://elib.dlr.de/217538/
 
 ## Diagramme
-
+![Caption](missionprofile.png)
