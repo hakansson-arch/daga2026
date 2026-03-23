@@ -20,6 +20,7 @@ Für einen leichten, zweimotorigen Mehrzweck-Hubschrauber wurde mit Hilfe eines 
 ## Diagramme
 ### Bereinigtes Missionsprofil eines EC145 auf Basis von ADS-B-Daten
 ![Bereinigtes Missionsprofil eines EC145 auf Basis von ADS-B-Daten](./images/missionprofile.png)
+### Profile point identifier (pid) des Missionsprofil und zugehörige Flugphase]
 ![Profile point identifier (pid) des Missionsprofil und zugehörige Flugphase](./images/pid_table.png)
 ![Schematischer Aufbau des untersuchten parallel-hybriden Antriebsstrangs, bei dem pro Gasturbine eine zusätzliche elektrische Maschine verwendet wird](./images/powertrain_schematic.png)
 ![Benötigte Wellenleistung in allen Flugphasen](./images/requiredPower.png)
