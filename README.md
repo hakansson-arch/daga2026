@@ -20,17 +20,42 @@ Für einen leichten, zweimotorigen Mehrzweck-Hubschrauber wurde mit Hilfe eines 
 ## Diagramme
 ### Bereinigtes Missionsprofil eines EC145 auf Basis von ADS-B-Daten
 ![Bereinigtes Missionsprofil eines EC145 auf Basis von ADS-B-Daten](./images/missionprofile.png)
+
 ### Profile point identifier (pid) des Missionsprofil und zugehörige Flugphase]
 ![Profile point identifier (pid) des Missionsprofil und zugehörige Flugphase](./images/pid_table.png)
+
+### Schematischer Aufbau des untersuchten parallel-hybriden Antriebsstrangs, bei dem pro Gasturbine eine zusätzliche elektrische Maschine verwendet wird
 ![Schematischer Aufbau des untersuchten parallel-hybriden Antriebsstrangs, bei dem pro Gasturbine eine zusätzliche elektrische Maschine verwendet wird](./images/powertrain_schematic.png)
+
+### Benötigte Wellenleistung in allen Flugphasen
 ![Benötigte Wellenleistung in allen Flugphasen](./images/requiredPower.png)
+
+### Übersicht der wichtigsten Parameter des initialen und des optimierten,endgültigen Maschinendesigns
 ![Übersicht der wichtigsten Parameter des initialen und des optimierten,endgültigen Maschinendesigns](./images/machine_specs_table.png)
+
+### Schematische Darstellung des finalen Maschinendesigns mit den einzelnen Komponenten
 ![Schematische Darstellung des finalen Maschinendesigns mit den einzelnen Komponenten](./images/machine_schematic.png)
+
+### Aufstellung der Massen aller betrachteten Komponenten
 ![Aufstellung der Massen aller betrachteten Komponenten](./images/massen_table.png)
+
+### Spitzen- und Dauerleistung des Maschinendesigns
 ![Spitzen- und Dauerleistung des Maschinendesigns](./images/power_curve.png)
+
+### Übersicht über den Prozessablauf zur Ermittlung der äquivalenten Schallleistung (ERP) der Maschine
 ![Übersicht über den Prozessablauf zur Ermittlung der äquivalenten Schallleistung (ERP) der Maschine](./images/prozess_flowchart.png)
+
+### Ergebnisse der im Rahmen der Netzsensitivitätsstudie ermittelten Eigenfrequenzen der ersten (umfangsgerichteten) Eigenmoden für drei verschiedene Elementgrößen
 ![Ergebnisse der im Rahmen der Netzsensitivitätsstudie ermittelten Eigenfrequenzen der ersten (umfangsgerichteten) Eigenmoden für drei verschiedene Elementgrößen](./images/eigenfrequenzen.png)
+
+### Äquivalente abgestrahlte Leistung der Maschine als Funktion der Drehzahl der Maschine und der Frequenz
 ![Äquivalente abgestrahlte Leistung der Maschine als Funktion der Drehzahl der Maschine und der Frequenz](./images/waterfall_24s20p_small.png)
+
+### Vergleich zweier Methoden
 ![Vergleich zweier Methoden](./images/erp_vs_truePower.png)
+
+### Vernetzte, die Maschine umgebende, Fluidzone mit 3,1 Millionen Elementen
 ![Vernetzte, die Maschine umgebende, Fluidzone mit 3,1 Millionen Elementen](./images/3d_mesh.png)
+
+### Richtcharakteristik des Schalldruckpegels in einem Meter Abstand für drei verschiedene Frequenzen
 ![Richtcharakteristik des Schalldruckpegels in einem Meter Abstand für drei verschiedene Frequenzen](./images/directivity.png)
